@@ -1,0 +1,21 @@
+Username,TrashLocation
+jaizikovitchy,Ryazhsk
+cdegenhardtz,Guanmian
+mjikovsky10,Tarata
+gcleaveland11,La Garenne-Colombes
+bkauscher12,Mostek
+emccaughan13,Almaty
+pdoncom14,Espumoso
+dbenoit15,Lins
+ebullene16,Laiya
+aaps17,Bazar-Korgon
+laldwick18,Laiya
+tcainey19,Pulupandan
+lhebner1a,Oenopu
+dcommings1b,Santiago
+fvezey1c,Dashtavan
+dtolwood1d,Taihe
+mheathorn0,Oenopu
+mallicock1,Santiago
+rlettuce2,Gaomiaoji
+kformigli3,Smithers
