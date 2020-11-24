@@ -1,0 +1,51 @@
+EnergyPlantId,PlantName,PlantAddress,PlantPhone
+5de0cef6fc13ae30bd000000,Oyondu,10 Paget Plaza,197-423-9091
+5de0cef6fc13ae30bd000001,Blognation,207 Waubesa Trail,852-383-6125
+5de0cef6fc13ae30bd000002,Meevee,369 Fieldstone Lane,520-281-1976
+5de0cef6fc13ae30bd000003,Youtags,70 Kinsman Alley,462-687-0889
+5de0cef6fc13ae30bd000004,Mudo,8013 Mesta Point,733-526-5613
+5de0cef6fc13ae30bd000005,Skipfire,29 Ludington Center,273-172-4503
+5de0cef6fc13ae30bd000006,Blogspan,5 Canary Parkway,868-991-0629
+5de0cef6fc13ae30bd000007,Livepath,3 Waxwing Place,417-797-2400
+5de0cef6fc13ae30bd000008,Layo,7624 Fuller Plaza,387-715-4316
+5de0cef6fc13ae30bd000009,Buzzster,1 Darwin Street,880-806-3852
+5de0cef6fc13ae30bd00000a,Demizz,7487 Basil Road,604-935-9875
+5de0cef6fc13ae30bd00000b,Mudo,26 Continental Junction,717-769-2331
+5de0cef6fc13ae30bd00000c,Avaveo,73795 Commercial Circle,628-948-2729
+5de0cef6fc13ae30bd00000d,Chatterbridge,8544 New Castle Junction,230-481-7218
+5de0cef6fc13ae30bd00000e,Mynte,08 Stang Avenue,901-959-4858
+5de0cef6fc13ae30bd00000f,Quaxo,06 Main Pass,327-363-0648
+5de0cef6fc13ae30bd000010,Twitterbeat,1 Ronald Regan Court,581-883-7948
+5de0cef6fc13ae30bd000011,Voonyx,864 Gale Terrace,827-665-2543
+5de0cef6fc13ae30bd000012,Dabshots,7335 Thierer Junction,973-392-1304
+5de0cef6fc13ae30bd000013,Skalith,378 Sundown Drive,461-140-4155
+5de0cef6fc13ae30bd000014,Browsetype,977 Springview Street,458-460-2632
+5de0cef6fc13ae30bd000015,Dabfeed,1 Burrows Street,581-357-5578
+5de0cef6fc13ae30bd000016,Oloo,066 Cody Place,735-595-2169
+5de0cef6fc13ae30bd000017,Shufflester,076 Oriole Junction,172-119-8286
+5de0cef6fc13ae30bd000018,Trudoo,72391 Pawling Lane,151-548-1573
+5de0cef6fc13ae30bd000019,Twitterwire,9493 Hovde Crossing,472-868-9267
+5de0cef6fc13ae30bd00001a,Voonyx,086 Becker Alley,612-719-9577
+5de0cef6fc13ae30bd00001b,Dablist,21 Cordelia Pass,329-199-0494
+5de0cef6fc13ae30bd00001c,Babbleopia,36201 Victoria Way,214-157-3462
+5de0cef6fc13ae30bd00001d,Feedfish,4198 Pawling Circle,238-249-6130
+5de0cef6fc13ae30bd00001e,Skynoodle,77553 Arapahoe Court,862-896-6172
+5de0cef6fc13ae30bd00001f,Flipstorm,768 Northfield Drive,157-681-7638
+5de0cef6fc13ae30bd000020,Topicware,6 Pepper Wood Hill,546-516-2151
+5de0cef6fc13ae30bd000021,Skajo,7 Buhler Crossing,606-575-3880
+5de0cef6fc13ae30bd000022,Thoughtbeat,3 Kropf Street,973-135-6939
+5de0cef6fc13ae30bd000023,Wordpedia,2 Express Crossing,152-481-6158
+5de0cef6fc13ae30bd000024,Yamia,81391 Cardinal Parkway,788-144-1403
+5de0cef6fc13ae30bd000025,Mita,7 Talisman Place,184-581-4558
+5de0cef6fc13ae30bd000026,Jabberbean,95 Hudson Court,836-613-7243
+5de0cef6fc13ae30bd000027,Meedoo,93120 Bay Crossing,207-579-6520
+5de0cef6fc13ae30bd000028,Avamba,9586 Northwestern Terrace,361-999-8696
+5de0cef6fc13ae30bd000029,Browseblab,0 Clove Trail,988-522-8542
+5de0cef6fc13ae30bd00002a,Tagopia,69 Clyde Gallagher Plaza,882-590-3738
+5de0cef6fc13ae30bd00002b,Npath,7 Sugar Place,987-505-4711
+5de0cef6fc13ae30bd00002c,Tagpad,9 American Road,892-990-2704
+5de0cef6fc13ae30bd00002d,Jayo,32 Sutherland Road,108-346-7298
+5de0cef6fc13ae30bd00002e,BlogXS,06756 Monica Road,407-244-1789
+5de0cef6fc13ae30bd00002f,Yakidoo,6621 Express Street,182-548-5998
+5de0cef6fc13ae30bd000030,Tagtune,41799 Hayes Way,280-450-1345
+5de0cef6fc13ae30bd000031,Quaxo,51 Harper Parkway,928-916-2481
