@@ -1,0 +1,51 @@
+TrashLocation,Amount,TrashType,TrashId
+Río Segundo,11,Recyclable,5de0ca47fc13ae1561000032
+Zhaoqing,19,Recyclable,5de0ca47fc13ae1561000033
+La Garenne-Colombes,19,Non-recyclable,5de0ca47fc13ae1561000034
+Blagaj,18,Recyclable,5de0ca47fc13ae1561000035
+Astorga,10,Recyclable,5de0ca47fc13ae1561000036
+Smithers,12,Recyclable,5de0ca47fc13ae1561000037
+Yaosai,9,Recyclable,5de0ca47fc13ae1561000038
+Dashtavan,16,Recyclable,5de0ca47fc13ae1561000039
+Taluksangay,5,Recyclable,5de0ca47fc13ae156100003a
+Río Colorado,18,Non-recyclable,5de0ca47fc13ae156100003b
+Basel,20,Non-recyclable,5de0ca47fc13ae156100003c
+Mostek,12,Recyclable,5de0ca47fc13ae156100003d
+Tarata,11,Non-recyclable,5de0ca47fc13ae156100003e
+Bazar-Korgon,20,Non-recyclable,5de0ca47fc13ae156100003f
+Anserma,14,Recyclable,5de0ca47fc13ae1561000040
+Gabrovo,14,Recyclable,5de0ca47fc13ae1561000041
+Pondohan,18,Non-recyclable,5de0ca47fc13ae1561000042
+Laban,12,Recyclable,5de0ca47fc13ae1561000043
+Guanmian,14,Recyclable,5de0ca47fc13ae1561000044
+Bocowanti,15,Recyclable,5de0ca47fc13ae1561000045
+Sobrosa,7,Recyclable,5de0ca47fc13ae1561000046
+Rappang,18,Non-recyclable,5de0ca47fc13ae1561000047
+Santiago,6,Recyclable,5de0ca47fc13ae1561000048
+Made,13,Non-recyclable,5de0ca47fc13ae1561000049
+Nariño,16,Recyclable,5de0ca47fc13ae156100004a
+Atlanta,11,Recyclable,5de0ca47fc13ae156100004b
+Trablice,7,Recyclable,5de0ca47fc13ae156100004c
+Ryazhsk,15,Recyclable,5de0ca47fc13ae156100004d
+Espumoso,14,Recyclable,5de0ca47fc13ae156100004e
+Koímisi,6,Recyclable,5de0ca47fc13ae156100004f
+Sali,6,Recyclable,5de0ca47fc13ae1561000050
+Almaty,10,Recyclable,5de0ca47fc13ae1561000051
+Gaomiaoji,16,Recyclable,5de0ca47fc13ae1561000052
+Lins,16,Non-recyclable,5de0ca47fc13ae1561000053
+Aldeia da Bela Vista,17,Recyclable,5de0ca47fc13ae1561000054
+Kiryū,18,Non-recyclable,5de0ca47fc13ae1561000055
+Taihe,18,Non-recyclable,5de0ca47fc13ae1561000056
+Hekou,14,Recyclable,5de0ca47fc13ae1561000057
+Laiya,8,Non-recyclable,5de0ca47fc13ae1561000058
+Xiamujiao,17,Non-recyclable,5de0ca47fc13ae1561000059
+Panitan,20,Recyclable,5de0ca47fc13ae156100005a
+Pulupandan,16,Non-recyclable,5de0ca47fc13ae156100005b
+Hongsi,7,Recyclable,5de0ca47fc13ae156100005c
+Ágios Týchon,11,Non-recyclable,5de0ca47fc13ae156100005d
+Vologda,8,Recyclable,5de0ca47fc13ae156100005e
+Chacarita,18,Recyclable,5de0ca47fc13ae156100005f
+Oenopu,8,Recyclable,5de0ca47fc13ae1561000060
+Taraban Timur,18,Non-recyclable,5de0ca47fc13ae1561000061
+Changshengqiao,12,Non-recyclable,5de0ca47fc13ae1561000062
+Inanwatan,16,Non-recyclable,5de0ca47fc13ae1561000063
